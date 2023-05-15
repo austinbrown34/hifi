@@ -9,7 +9,7 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
     name="hifi",
-    version="5.0.0",
+    version="6.0.0",
     author="Austin Brown",
     author_email="austinbrown34@gmail.com",
     description="Command-line tool to find nearest store.",

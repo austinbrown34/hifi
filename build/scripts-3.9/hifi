@@ -1,4 +1,4 @@
-#!/Users/austinbrown/.local/share/virtualenvs/hifi-xpvT5RK6/bin/python
+#!/Users/austinbrown/miniforge3/bin/python
 
 import sys
 import argparse
