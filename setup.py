@@ -8,8 +8,8 @@ with open('requirements.txt') as f:
     required = f.read().splitlines()
 
 setuptools.setup(
-    name="hifi",
-    version="6.0.0",
+    name="dancify",
+    version="1.0.0",
     author="Austin Brown",
     author_email="austinbrown34@gmail.com",
     description="Command-line tool to find nearest store.",

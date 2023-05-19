@@ -1,4 +1,4 @@
-#!/Users/austinbrown/miniforge3/bin/python
+#!/Users/austinbrown/miniforge3/envs/hifi/bin/python
 
 import sys
 import argparse

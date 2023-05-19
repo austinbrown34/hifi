@@ -5,6 +5,13 @@ README.md
 environment.yml
 requirements.txt
 setup.py
+VisBeatAssets/VideoSources/YqeW9_5kURI/VideoSource.json
+VisBeatAssets/VideoSources/YqeW9_5kURI/Versions/Original/maxheight_720/Major Lazer & DJ Snake - Lean On (feat. MØ) (Official Music Video)-YqeW9_5kURI.info.json
+dancify.egg-info/PKG-INFO
+dancify.egg-info/SOURCES.txt
+dancify.egg-info/dependency_links.txt
+dancify.egg-info/requires.txt
+dancify.egg-info/top_level.txt
 hifi/__init__,py
 hifi/engine.py
 hifi/hiphy.py
@@ -14,11 +21,6 @@ hifi/test-encoder.sh
 hifi/utils.py
 hifi/vidsnatch.py
 hifi/youtube-ffmpeg-mp4.sh
-hifi.egg-info/PKG-INFO
-hifi.egg-info/SOURCES.txt
-hifi.egg-info/dependency_links.txt
-hifi.egg-info/requires.txt
-hifi.egg-info/top_level.txt
 scripts/hifi
 scripts/visbeats
 visbeats/__init__.py

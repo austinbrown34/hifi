@@ -6,8 +6,50 @@
         "file_base_name": "VideoSource",
         "file_ext": ".json",
         "file_name": "VideoSource.json",
-        "file_path": "./VisBeatAssets/VideoSources/YqeW9_5kURI/VideoSource.json"
+        "file_path": "./VisBeatAssets/VideoSources/YqeW9_5kURI/VideoSource.json",
+        "source_type": "youtube"
     },
-    "directories": {},
-    "source_location": null
+    "directories": {
+        "backup": "./VisBeatAssets/VideoSources/YqeW9_5kURI/Data/Backups/",
+        "data": "./VisBeatAssets/VideoSources/YqeW9_5kURI/Data/",
+        "features": "./VisBeatAssets/VideoSources/YqeW9_5kURI/Data/Features/",
+        "temp": "./VisBeatAssets/VideoSources/YqeW9_5kURI/Data/TEMP/",
+        "versions": "./VisBeatAssets/VideoSources/YqeW9_5kURI/Versions/",
+        "warps": "./VisBeatAssets/VideoSources/YqeW9_5kURI/Versions/Warps/"
+    },
+    "source_location": "https://www.youtube.com/watch?v=YqeW9_5kURI",
+    "title_safe": "Major Lazer & DJ Snake - Lean On (feat. M_) (Official Music Video)",
+    "versions_info": {
+        "Original": {
+            "720": {
+                "duration": 178.84,
+                "end_time": 178.84,
+                "meta_data": {
+                    "audio_codec": "aac",
+                    "codec": "av1",
+                    "duration": 178.93,
+                    "ffmpeg_version": "5.1.2 built with Apple clang version 14.0.0 (clang-1400.0.29.202)",
+                    "fps": 25.0,
+                    "nframes": Infinity,
+                    "pix_fmt": "yuv420p(tv, bt709)",
+                    "plugin": "ffmpeg",
+                    "rotate": 0,
+                    "size": [
+                        1280,
+                        720
+                    ],
+                    "source_size": [
+                        1280,
+                        720
+                    ]
+                },
+                "name": "Major Lazer & DJ Snake - Lean On (feat. M_) (Official Music Video)-YqeW9_5kURI_720",
+                "num_frames_total": 4471,
+                "path": "./VisBeatAssets/VideoSources/YqeW9_5kURI/Versions/Original/maxheight_720/Major Lazer & DJ Snake - Lean On (feat. M_) (Official Music Video)-YqeW9_5kURI.mp4",
+                "sampling_rate": 25.0,
+                "start_time": 0
+            }
+        }
+    },
+    "video_file_name": "Major Lazer & DJ Snake - Lean On (feat. M_) (Official Music Video)-YqeW9_5kURI.mp4"
 }
